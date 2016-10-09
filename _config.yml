@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Welcome to Lin & Xingyu's New Start"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Lin SUN"
+description              : "Record our acdemic life and work life"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lin SUN & Xingyu Zhang"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "We begin a new journey!"
+  location         : "US"
   email            :
   uri              :
   bitbucket        :
